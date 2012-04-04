@@ -13,4 +13,3 @@ doc/app
 .DS_Store
 .project
 .sass-cache/
-Gemfile.lock
